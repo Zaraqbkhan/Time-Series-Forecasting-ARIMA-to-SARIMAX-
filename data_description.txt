@@ -1,0 +1,10 @@
+📁 Dataset: Daily Revenue and Promotions – ChocoBar Company
+
+This dataset contains daily sales and promotional information for a confectionery brand.
+
+Columns:
+
+- date: Date of record (daily frequency)
+- revenue: Total daily revenue in currency
+- discount_rate: Percentage discount offered that day
+- coupon_rate: Percentage of revenue affected by coupon use
