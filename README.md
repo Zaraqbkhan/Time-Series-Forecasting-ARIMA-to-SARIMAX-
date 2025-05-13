@@ -20,7 +20,7 @@ This project focuses on forecasting the daily revenue of a ChocoBar company usin
 
 **SARIMAX outperforms ARIMA and SARIMA** by including promotional variables (`discount_rate` and `coupon_rate`) as exogenous inputs. This results in:
 
-- Lower MAE,RMSE,MAPE and AIC values
+- Lower MAE,RMSE,MAPE values
 - Better ability to capture spikes and dips driven by promotions
 - More realistic forecasting during marketing campaigns
 
